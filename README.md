@@ -6,7 +6,7 @@
 
 ## About Me
 My name is Fábio Tomaz Castim. I'm an ex-dancer, ex-marketeer and a **student at 42 school**!
-As someone fairly new to the programming community, I've quickly become addicted to the world of coding.
+As someone fairly new to the programming community, I've quickly become addicted to the world of Computer Science.
 I'm particularly passionate about AI, Machine Learning and Algorithms but still trying to understand all of these shenanigans.
 
 I really like to program in C lol.
