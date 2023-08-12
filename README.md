@@ -1,6 +1,6 @@
 <div align="center">
-  
-## 👋 **Hi there! Welcome to my GitHub profile!** 
+
+## 👋 **Hi there! Welcome to my GitHub profile!**
 </div>
 
 
@@ -22,15 +22,15 @@ I really like to program in C lol.
 </p>
 
 <div align="center">
-  
+
 |Project|Skills|Score|
 |---|---|---|
 |Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]| In Progress|
 |Exam Rank 02|-|[![ftomaz-c's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3201301)](https://github.com/JaeSeoKim/badge42)|
 |Born2beroot|[Network & system administration] [Rigor]|[![ftomaz-c's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3177558)](https://github.com/JaeSeoKim/badge42)|
 |get_next_line|[Unix] [Rigor] [Algorithms & AI]|[![ftomaz-c's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3104433)](https://github.com/JaeSeoKim/badge42)|
-|ft_printf|[Rigor] [Algorithms & AI]|[![ftomaz-c's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3083805)](https://github.com/JaeSeoKim/badge42)|
-|Libft|[Rigor] [Imperative programming] [Algorithms & AI]|[![ftomaz-c's 42 Libft Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3060968)](https://github.com/JaeSeoKim/badge42)|
+|[ft_printf](https://github.com/ftomaz-c/Printf.git)|[Rigor] [Algorithms & AI]|[![ftomaz-c's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3083805)](https://github.com/JaeSeoKim/badge42)|
+|[Libft](https://github.com/ftomaz-c/Libft.git)|[Rigor] [Imperative programming] [Algorithms & AI]|[![ftomaz-c's 42 Libft Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3060968)](https://github.com/JaeSeoKim/badge42)|
 
 </div>
 
