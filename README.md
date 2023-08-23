@@ -11,18 +11,18 @@ I'm particularly passionate about AI, Machine Learning and Algorithms but still 
 
 I really like to program in C lol.
 
-## 42 School
-
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/stats?cursusId=21&coalitionId=112" alt="ftomaz-c's 42 stats" /></a>
-</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,vscode,vim,docker,linux" />
   </a>
 </p>
 <div align="center">
+
+## 42 School
+
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/stats?cursusId=21&coalitionId=112" alt="ftomaz-c's 42 stats" /></a>
+</p>
 
 |Project|Skills|Score|
 |---|---|---|
