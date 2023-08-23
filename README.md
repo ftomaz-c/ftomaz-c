@@ -1,5 +1,8 @@
-<div align="center">
+<div align="right">
+![Codewars](https://github.r2v.ch/codewars?user=ftomaz-c&name=true)
+</div>
 
+<div align="center">
 ## 👋 **Hi there! Welcome to my GitHub profile!**
 </div>
 
@@ -20,7 +23,6 @@ I really like to program in C lol.
     <img src="https://skillicons.dev/icons?i=c,vscode,vim,docker,linux" />
   </a>
 </p>
-
 <div align="center">
 
 |Project|Skills|Score|
