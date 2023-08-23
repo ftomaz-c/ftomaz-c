@@ -33,13 +33,21 @@ I really like to program in C lol.
 
 </div>
 
+### Codewars
+<div align="center">
+
+[profile](https://www.codewars.com/users/ftomaz-c)
+</div>
+
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=ftomaz-c&top_languages=true&hide_clan=true&theme=dark" />
+    </a>
+</p>
+
 ## Collaboration
 I'm open to collaboration and eager to work with like-minded individuals on exciting projects.
 
 ## Contact Me
 Feel free to reach out to me via email: [ftomaz-c@student.42lisboa.com](mailto:ftomaz-c@student.42lisboa.com)
 
-<div align="center">
-  
-![Codewars](https://github.r2v.ch/codewars?user=ftomaz-c&name=true)
-</div>
