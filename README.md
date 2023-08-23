@@ -11,6 +11,8 @@ I'm particularly passionate about AI, Machine Learning and Algorithms but still 
 
 I really like to program in C lol.
 
+## 42 School
+
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/stats?cursusId=21&coalitionId=112" alt="ftomaz-c's 42 stats" /></a>
 </p>
@@ -33,11 +35,9 @@ I really like to program in C lol.
 
 </div>
 
-### Codewars
-<div align="center">
 
-[profile](https://www.codewars.com/users/ftomaz-c)
-</div>
+## Codewars
+new [profile](https://www.codewars.com/users/ftomaz-c) on codewars
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
