@@ -37,20 +37,21 @@ I really like to program in C lol.
 
 <div align="center">
 
-⚠️ **Please note**: The progress badge is currently not working correctly.</div>
+⚠️ **Please note**: The progress badge is currently not working correctly. </div>
 
 
 ## Codewars
 New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
+
+<div align="center">
+  
+🚀 [Welcome to my Codewars Katas Repository!](https://github.com/ftomaz-c/Codewars.git) 🚀 </div>
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=ftomaz-c&top_languages=true&hide_clan=true&theme=dark" />
     </a>
 </p>
-<div align="center">
-  
-🚀 [Welcome to my Codewars Katas Repository!](https://github.com/ftomaz-c/Codewars.git) 🚀 </div>
 
 ## Collaboration
 I'm open to collaboration and eager to work with like-minded individuals on exciting projects.
