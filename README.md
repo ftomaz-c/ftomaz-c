@@ -1,8 +1,3 @@
-<div align="right">
-  
-![Codewars](https://github.r2v.ch/codewars?user=ftomaz-c&name=true)
-</div>
-
 <div align="center">
   
 ## 👋 **Hi there! Welcome to my GitHub profile!**
@@ -43,3 +38,8 @@ I'm open to collaboration and eager to work with like-minded individuals on exci
 
 ## Contact Me
 Feel free to reach out to me via email: [ftomaz-c@student.42lisboa.com](mailto:ftomaz-c@student.42lisboa.com)
+
+<div align="center">
+  
+![Codewars](https://github.r2v.ch/codewars?user=ftomaz-c&name=true)
+</div>
