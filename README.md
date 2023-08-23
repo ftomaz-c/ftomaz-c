@@ -16,7 +16,6 @@ I really like to program in C lol.
     <img src="https://skillicons.dev/icons?i=c,vscode,vim,docker,linux" />
   </a>
 </p>
-<div align="center">
 
 ## 42 School
 
@@ -24,6 +23,8 @@ I really like to program in C lol.
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/stats?cursusId=21&coalitionId=112" alt="ftomaz-c's 42 stats" /></a>
 </p>
 
+<div align="center">
+  
 |Project|Skills|Score|
 |---|---|---|
 |Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]| In Progress|
@@ -32,8 +33,11 @@ I really like to program in C lol.
 |get_next_line|[Unix] [Rigor] [Algorithms & AI]|[![ftomaz-c's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3104433)](https://github.com/JaeSeoKim/badge42)|
 |[ft_printf](https://github.com/ftomaz-c/Printf.git)|[Rigor] [Algorithms & AI]|[![ftomaz-c's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3083805)](https://github.com/JaeSeoKim/badge42)|
 |[Libft](https://github.com/ftomaz-c/Libft.git)|[Rigor] [Imperative programming] [Algorithms & AI]|[![ftomaz-c's 42 Libft Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3060968)](https://github.com/JaeSeoKim/badge42)|
-
 </div>
+
+<div align="center">
+
+⚠️ **Please note**: The progress badge is currently not working correctly.</div>
 
 
 ## Codewars
