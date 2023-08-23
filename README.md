@@ -48,6 +48,9 @@ New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
       <img src="https://github.r2v.ch/codewars?user=ftomaz-c&top_languages=true&hide_clan=true&theme=dark" />
     </a>
 </p>
+<div align="center">
+  
+🚀 [Welcome to my Codewars Katas Repository!](https://github.com/ftomaz-c/Codewars.git) 🚀 </div>
 
 ## Collaboration
 I'm open to collaboration and eager to work with like-minded individuals on exciting projects.
