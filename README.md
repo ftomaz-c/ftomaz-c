@@ -1,8 +1,10 @@
 <div align="right">
+  
 ![Codewars](https://github.r2v.ch/codewars?user=ftomaz-c&name=true)
 </div>
 
 <div align="center">
+  
 ## 👋 **Hi there! Welcome to my GitHub profile!**
 </div>
 
