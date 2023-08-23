@@ -37,7 +37,7 @@ I really like to program in C lol.
 
 
 ## Codewars
-new [profile](https://www.codewars.com/users/ftomaz-c) on codewars
+New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
