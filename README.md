@@ -1,5 +1,5 @@
 
-<p align="right">
+<p align="left">
   <a href="https://www.codewars.com/">
     <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
   </a>
