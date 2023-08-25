@@ -1,3 +1,10 @@
+
+<p align="right">
+  <a href="https://www.codewars.com/">
+    <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
+  </a>
+</p>
+
 <div align="center">
   
 # 👋 **Hi there! Welcome to my GitHub profile!**
