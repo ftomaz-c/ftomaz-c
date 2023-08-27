@@ -56,7 +56,7 @@ New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
 
 <p align="center">
   <a href="https://www.codewars.com/">
-    <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
+    <img src="https://www.codewars.com/users/ftomaz-c/badges/large" />
   </a>
 </p>
 
