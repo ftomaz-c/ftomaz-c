@@ -54,10 +54,10 @@ New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
   
 🚀 [Welcome to my Codewars Katas Repository!](https://github.com/ftomaz-c/Codewars.git) 🚀 </div>
 
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=ftomaz-c&top_languages=true&hide_clan=true&theme=dark" />
-    </a>
+<p align="center">
+  <a href="https://www.codewars.com/">
+    <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
+  </a>
 </p>
 
 ## Collaboration
