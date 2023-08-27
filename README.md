@@ -20,7 +20,7 @@ I really like to program in C lol.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vscode,vim,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=c,vscode,vim,linux,docker,html,css" />
   </a>
 </p>
 
