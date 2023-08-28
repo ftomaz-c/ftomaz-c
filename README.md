@@ -5,7 +5,7 @@
   </a>
   <div align="center">
   
- |[Codewars](https://github.com/ftomaz-c/Codewars)|LiteCode|[TOP](https://github.com/ftomaz-c/The_Odin_Project.git)|[freeCodeCamp](https://github.com/ftomaz-c/freeCodeCamp)|
+ |[Codewars](https://github.com/ftomaz-c/Codewars)|LeetCode|[The Odin Project](https://github.com/ftomaz-c/The_Odin_Project.git)|[freeCodeCamp](https://github.com/ftomaz-c/freeCodeCamp)|
   |---|---|---|---|
   </div>
 </p>
@@ -15,6 +15,7 @@
 # 👋 **Hi there! Welcome to my GitHub profile!**
 </div>
 
+<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
 
 ## About Me
 My name is Fábio. I'm an ex-dancer, ex-marketeer and a **student at 42 school**!
@@ -29,7 +30,6 @@ I really like to program in C lol.
   </a>
 </p>
 
-<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
 
   ## 42 School
   
