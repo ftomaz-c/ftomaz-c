@@ -5,8 +5,8 @@
   </a>
   <div align="center">
   
-  |Current 42 Project - [Push_swap](https://github.com/ftomaz-c/Push-swap)|[Codewars](https://github.com/ftomaz-c/Codewars)|LiteCode|The Odin Project|[freeCodeCamp](https://github.com/ftomaz-c/freeCodeCamp)|
-  |---|---|---|---|---|
+ |[Codewars](https://github.com/ftomaz-c/Codewars)|LiteCode|The Odin Project|[freeCodeCamp](https://github.com/ftomaz-c/freeCodeCamp)|
+  |---|---|---|---|
   </div>
 </p>
 
@@ -29,6 +29,7 @@ I really like to program in C lol.
   </a>
 </p>
 
+<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
 ## 42 School
 
 <p align="center">
