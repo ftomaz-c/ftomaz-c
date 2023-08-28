@@ -1,8 +1,13 @@
 
-<p align="left">
+<p  style="display: inline-block" align="left">
   <a href="https://www.codewars.com/">
     <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
   </a>
+  <div align="center">
+  
+  |Current 42 Project - [Push_swap](https://github.com/ftomaz-c/Push-swap)|[Codewars](https://github.com/ftomaz-c/Codewars)|LiteCode|The Odin Project|[freeCodeCamp](https://github.com/ftomaz-c/freeCodeCamp)|
+  |---|---|---|---|---|
+  </div>
 </p>
 
 <div align="center">
