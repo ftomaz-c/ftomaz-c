@@ -30,7 +30,12 @@ I really like to program in C lol.
 </p>
 
 <p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
-## 42 School
+
+  ## 42 School
+  
+<div align="center">
+  
+⚠️ **Please note**: The progress badge is currently not working correctly. </div>
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/stats?cursusId=21&coalitionId=112" alt="ftomaz-c's 42 stats" /></a>
@@ -48,12 +53,11 @@ I really like to program in C lol.
 |[Libft](https://github.com/ftomaz-c/Libft.git)|[Rigor] [Imperative programming] [Algorithms & AI]|[![ftomaz-c's 42 Libft Score](https://badge42.vercel.app/api/v2/cll8aluis004008jmi3fl103a/project/3060968)](https://github.com/JaeSeoKim/badge42)|
 </div>
 
-<div align="center">
 
-⚠️ **Please note**: The progress badge is currently not working correctly. </div>
 
 
 ## Codewars
+
 New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
 
 <div align="center">
