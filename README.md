@@ -1,4 +1,3 @@
-
 <p  style="display: inline-block" align="left">
   <a href="https://www.codewars.com/">
     <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" />
@@ -10,12 +9,14 @@
   </div>
 </p>
 
+
+<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
+
 <div align="center">
   
 # 👋 **Hi there! Welcome to my GitHub profile!**
 </div>
 
-<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">Push_swap</a><p>
 
 ## About Me
 My name is Fábio. I'm an ex-dancer, ex-marketeer and a **student at 42 school**!
