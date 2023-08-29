@@ -27,7 +27,7 @@ I really like to program in C lol.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,linux,vscode,vim,git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=c,linux,vscode,vim,git,github,docker,html,css" />
   </a>
 </p>
 
