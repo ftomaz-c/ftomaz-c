@@ -10,7 +10,7 @@
 </p>
 
 
-<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Push-swap">pipex</a><p>
+<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Pipex">pipex</a><p>
 
 <div align="center">
   
