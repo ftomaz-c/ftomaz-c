@@ -33,7 +33,10 @@ I really like to program in C lol.
 
 
   ## 42 School
+<div align="center">
   
+  [![ftomaz-c's 42 stats](https://badge.mediaplus.ma/black/ftomaz-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 
 <div align="center">
   
