@@ -10,7 +10,7 @@
 </p>
 
 
-<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Pipex">pipex</a><p>
+<p align= "center">Current 42 Project - <a href="https://github.com/ftomaz-c/Minishell">minishell</a><p>
 
 <div align="center">
   
@@ -42,7 +42,9 @@ I really like to program in C lol.
   
 |Project|Skills|Score|
 |---|---|---|
-|pipex|[Unix] [Imperative programming] | in progress|
+|Minishell|[Unix] [Imperative programming]| in progress |
+|So_long|[Graphics] [Applicative] [Imperative programming]| in progress |
+|Pipex|[Unix] [Imperative programming] | 125/125|
 |Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]|100/100|
 |Exam Rank 02|-|100/100|
 |Born2beroot|[Network & system administration] [Rigor]|125/100|
