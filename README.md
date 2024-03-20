@@ -27,7 +27,7 @@ You’ll find my GitHub filled with my coding adventures – projects I’m prou
 
 Feel free to reach out.
 
-Do or do not. There is no try.
+Do or do not. There is no try. 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
