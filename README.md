@@ -14,16 +14,20 @@
 
 <div align="center">
   
-# 👋 **Hi there! Welcome to my GitHub profile!**
+# 👋 **Welcome to my GitHub!**
 </div>
 
 
 ## About Me
-My name is Fábio. I'm an ex-dancer, ex-marketeer and a **student at 42 school**!
-As someone fairly new to the programming community, I've quickly become addicted to the world of Computer Science.
-I'm particularly passionate about AI, Machine Learning and Algorithms but still trying to understand all of these shenanigans.
+Hey! I’m Fábio, once a dancer and marketeer, now diving headfirst into the coding universe at 42 School. I’m fascinated by Computer Science, AI, and Machine Learning. Still wrapping my head around it all, but loving the challenge.
 
-I really like to program in C lol.
+Right now, I'm working on a cool project: a CRM software for an insurance broker, using Python, Tailwind, and JavaScript. Plus, I'm tackling some challenging school projects. 'minishell' and 'philosophers'. It's all about learning by doing, and I'm really into it.
+
+You’ll find my GitHub filled with my coding adventures – projects I’m proud of and others that are, well... works in progress. It’s all part of the journey. I’m here to grow, learn, and connect with others.
+
+Feel free to reach out.
+
+Cheers to the endless possibilities ahead!
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,6 +46,7 @@ I really like to program in C lol.
   
 |Project|Skills|Score|
 |---|---|---|
+|Philosophers|[Threads] [Mutexes]| in progress |
 |Minishell|[Unix] [Imperative programming]| in progress |
 |So_long|[Graphics] [Applicative] [Imperative programming]| in progress |
 |Pipex|[Unix] [Imperative programming] | 125/125|
