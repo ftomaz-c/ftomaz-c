@@ -21,7 +21,7 @@
 ## About Me
 Hey! I’m Fábio, once a dancer and marketeer, now diving headfirst into the coding universe at 42 School. I’m fascinated by Computer Science, AI, and Machine Learning. Still wrapping my head around it all, but loving the challenge.
 
-Right now, I'm working on a cool project: a CRM software for an insurance broker, using Python, Tailwind, and JavaScript. Plus, I'm tackling some challenging school projects. 'minishell' and 'philosophers'. It's all about learning by doing, and I'm really into it.
+Right now, I'm working on a CRM software for an insurance broker, using Python, Tailwind, and JavaScript. Plus, I'm tackling some challenging school projects. 'minishell' and 'philosophers'. It's all about learning by doing, and I'm really into it.
 
 You’ll find my GitHub filled with my coding adventures – projects I’m proud of and others that are, well... works in progress. It’s all part of the journey. I’m here to grow, learn, and connect with others.
 
