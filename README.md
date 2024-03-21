@@ -31,7 +31,18 @@ Do or do not. There is no try. 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,linux,vscode,vim,git,github,docker,django,html,tailwind,css" />
+    <img src="https://skillicons.dev/icons?i=c" alt="c"/>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vim" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
 </p>
 
