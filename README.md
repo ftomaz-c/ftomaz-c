@@ -59,7 +59,22 @@ Do or do not. There is no try. 🚀
 </div>
 
 
+## OSSU University
 
+### 💻 CS
+#### Introduction to Programming
+- [Python for Everybody](https://www.py4e.com/lessons)
+- [CS50x](https://cs50.harvard.edu/x/2024/)
+#### Introduction to Computer Science
+#### Core programming
+- [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
+
+### 📉 Data Science
+#### Introduction to Data Science
+- [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+
+### 🔢 Math
+- [Review Math](https://www.khanacademy.org/profile/me/courses)
 
 ## Codewars
 
