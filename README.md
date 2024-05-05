@@ -50,9 +50,10 @@ _Do or do not. There is no try._ 🚀
 
 |Project|Skills|Score|
 |---|---|---|
-|Philosophers|[Threads] [Mutexes]| in progress |
+|Exam Rank 03|-|0/100|
+|Philosophers|[Threads] [Mutexes]| 100/100 |
 |Minishell|[Unix] [Imperative programming]| in progress |
-|So_long|[Graphics] [Applicative] [Imperative programming]| in progress |
+|So_long|[Graphics] [Applicative] [Imperative programming]| 117/100 |
 |Pipex|[Unix] [Imperative programming] | 125/125|
 |Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]|100/100|
 |Exam Rank 02|-|100/100|
