@@ -40,10 +40,9 @@ _Do or do not. There is no try._ 🚀
 
 
 ## 42 School
-
 <div align="center">
   
-  [![ftomaz-c's 42 stats](https://badge.mediaplus.ma/black/ftomaz-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  [![ftomaz-c's 42 stats](https://badge.mediaplus.ma/darkblue/ftomaz-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 </div>
 
 <div align="center">
