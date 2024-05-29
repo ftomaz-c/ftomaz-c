@@ -17,15 +17,15 @@
       <td><a href="https://github.com/ftomaz-c/freeCodeCamp">freeCodeCamp</a></td>
     </tr>
   </table>
-  <p>Current 42 Project - <a href="https://github.com/ftomaz-c/Minishell">minishell</a></p>
+  <p>Current 42 Project - <a href="https://github.com/ftomaz-c/CPP-42">C++ Module00</a></p>
 </div>
 
 ## About Me
 Hey! I’m Fábio, once a dancer and marketeer, now diving headfirst into the coding universe at 42 School. I’m fascinated by **Computer Science**, **AI**, and **Machine Learning**. Still wrapping my head around it all, but loving the challenge.
 
-Right now, I'm working on a CRM software for an insurance broker, using **Python**, **Tailwind**, and **JavaScript**. Plus, I'm tackling some challenging school projects - [minishell](https://github.com/ftomaz-c/Minishell) and philosophers. It's all about learning by doing, and I'm really into it.
+Right now, I'm working on a CRM software for an insurance broker, using **Python**, **Tailwind**, and **JavaScript**. Plus, I'm tackling some challenging school projects. It's all about learning by doing, and I'm really into it.
 
-You’ll find my GitHub filled with my coding adventures – projects I’m proud of and others that are, well... works in progress. It’s all part of the journey. I’m here to grow, learn, and connect with others.
+You’ll find my GitHub filled with my coding adventures, projects I’m proud of and others that are, well... works in progress. It’s all part of the journey. I’m here to grow, learn, and connect with others.
 
 Feel free to reach out.
 
@@ -50,9 +50,12 @@ _Do or do not. There is no try._ 🚀
 
 |Project|Skills|Score|
 |---|---|---|
-|Exam Rank 03|-|0/100|
+|Exam Rank 04| - | - |
+|NetPractice| [Rigor] [Network & system administration] |in progress| 
+|CPP|[Rigor] [Object-oriented programming] [Imperative programming] | in progress | 
+|Exam Rank 03|-|100/100|
 |Philosophers|[Threads] [Mutexes]| 100/100 |
-|Minishell|[Unix] [Imperative programming]| in progress |
+|Minishell|[Unix] [Imperative programming]| 100/100 |
 |So_long|[Graphics] [Applicative] [Imperative programming]| 117/100 |
 |Pipex|[Unix] [Imperative programming] | 125/125|
 |Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]|100/100|
