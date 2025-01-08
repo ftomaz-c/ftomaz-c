@@ -37,7 +37,7 @@ _Do or do not. There is no try._ 🚀
 ## Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,linux,vscode,vim,git,github,docker,django,html,tailwind,css" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,linux,vscode,vim,git,github,docker,html,css" alt="Skill Icons" />
   </a>
 </div>
 
