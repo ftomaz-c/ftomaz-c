@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Welcome to My GitHub Profile!</h1>
+  <h1>👋 Welcome to My Profile!</h1>
   <p>
     <strong>Hi, I’m Fábio!</strong> A former dancer turned coding enthusiast, currently navigating the tech universe at 42 School. 🚀
   </p>
