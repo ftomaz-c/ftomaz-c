@@ -53,25 +53,23 @@ _Do or do not. There is no try._ 🚀
   
 ### 🌟 Completed Projects
 
-| Project       | Skills                                 | Score     | Description                                                                                  |
-|---------------|----------------------------------------|-----------|----------------------------------------------------------------------------------------------|
-| Exam Rank 05  | -                                      | 100/100   | A performance assessment at 42 School covering advanced topics in C++ programming.             |
-| Inception     | [Docker, Containerization, System Administration & DevOps  | in progess   | A project where you set up a multi-container Docker environment to learn about containerization and system administration tools, with a focus on Docker and Docker Compose.  |
-| CPP Modules 05 - 09  | [OOP]   | in progress | A continuation of the C++ modules, diving deeper into object-oriented programming with concepts like polymorphism, inheritance, and templates. It expands on the basics learned in the initial C++ modules.        |
-| Exam Rank 04  | -                                      | 100/100   | A performance assessment at 42 School covering advanced topics in C programming.             |
-| MiniRT        | [Graphics, Ray Tracing & Math]         | 120/100   | A simple raytracer, implementing 3D object rendering using light, color, and shadows.        |
-| NetPractice   | [Network & System Administration]      | 100/100 | Hands-on exercises to understand IP addressing, subnetting, and network configurations.       |
-| CPP Modules 00 - 04  | [Object-Oriented Programming]    | 100/100 | A comprehensive introduction to C++ through modular projects focusing on OOP concepts.        |
-| Exam Rank 03  | -                                      | 100/100   | Demonstrated proficiency in problem-solving and algorithmic thinking under timed conditions.  |
-| Philosophers  | [Threads, Mutexes]                     | 100/100   | Implemented the classic "Dining Philosophers" problem to learn about concurrency in C.        |
-| Minishell     | [Unix, Imperative Programming]         | 100/100   | Developed a custom shell handling commands, pipes, and environment variables.                 |
-| So_long       | [Graphics, Imperative Programming]     | 117/100   | Created a simple 2D game using the MinilibX graphical library in C.                           |
-| Pipex         | [Unix, Algorithms & AI]               | 125/125   | Built a program to replicate shell-like piping between processes, showcasing UNIX expertise.   |
-| Push_swap     | [Algorithms & AI]                     | 100/100   | Developed a sorting algorithm visualization using stacks and push-swap operations.            |
-| Born2beroot   | [System Administration]               | 125/100   | Configured a virtual server with Debian to explore system administration and security basics. |
-| [get_next_line](https://github.com/ftomaz-c/Get_next_line) | [Algorithms & AI]                     | 112/100   | Implemented a function to read a line from a file descriptor in C, handling edge cases.       |
-| [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Algorithms & AI] | 100/100 | Recreated the `printf` function in C, supporting multiple formats and flags.                  |
-| [Libft](https://github.com/ftomaz-c/Libft.git)     | [Algorithms & AI] | 125/100 | Built a custom C library of essential functions for string manipulation and memory handling.   |
+| Project       | Skills                                              | Score     |
+|---------------|-----------------------------------------------------|-----------|
+| Inception     | [Docker, Containerization, DevOps, System Administration] | in progress |
+| CPP Modules 05 - 09 | [Object-Oriented Programming (OOP), Advanced C++] | in progress |
+| MiniRT        | [Graphics, Ray Tracing, Math (Linear Algebra)]      | 120/100   |
+| NetPractice   | [Networking, System Administration]                 | 100/100   | 
+| CPP Modules 00 - 04 | [Object-Oriented Programming (OOP), C++ Basics] | 100/100 |
+| Philosophers  | [Concurrency, Threads, Mutexes, Deadlock Prevention]| 100/100   | 
+| Minishell     | [Unix, System Calls, Command Parsing]               | 100/100   | 
+| So_long       | [Graphics, 2D Game Design, Imperative Programming]  | 117/100   |
+| Pipex         | [Unix, File Descriptors, Algorithms]                | 125/125   |
+| Push_swap     | [Sorting Algorithms, Optimization]                  | 100/100   |
+| Born2beroot   | [System Administration, Security, Linux]            | 125/100   |
+| [get_next_line](https://github.com/ftomaz-c/Get_next_line) | [File Handling, Memory Management]         | 112/100   |
+| [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Parsing, Variadic Functions]               | 100/100   |
+| [Libft](https://github.com/ftomaz-c/Libft.git)     | [Custom Library, Algorithms, Code Reusability] | 125/100   |
+
 
 
 </div>
