@@ -55,9 +55,13 @@ _Do or do not. There is no try._ 🚀
 
 | Project       | Skills                                 | Score     | Description                                                                                  |
 |---------------|----------------------------------------|-----------|----------------------------------------------------------------------------------------------|
-| Exam Rank 04  | -                                      | -         | A performance assessment at 42 School covering advanced topics in C programming.             |
-| NetPractice   | [Network & System Administration]      | In Progress | Hands-on exercises to understand IP addressing, subnetting, and network configurations.       |
-| CPP Modules   | [Object-Oriented Programming]          | In Progress | A comprehensive introduction to C++ through modular projects focusing on OOP concepts.        |
+| Exam Rank 05  | -                                      | 100/100   | A performance assessment at 42 School covering advanced topics in C++ programming.             |
+| Inception     | [Docker, Containerization, System Administration & DevOps  | in progess   | A project where you set up a multi-container Docker environment to learn about containerization and system administration tools, with a focus on Docker and Docker Compose.  |
+| CPP Modules 05 - 09  | [OOP]   | in progress | A continuation of the C++ modules, diving deeper into object-oriented programming with concepts like polymorphism, inheritance, and templates. It expands on the basics learned in the initial C++ modules.        |
+| Exam Rank 04  | -                                      | 100/100   | A performance assessment at 42 School covering advanced topics in C programming.             |
+| MiniRT        | [Graphics, Ray Tracing & Math]         | 120/100   | A simple raytracer, implementing 3D object rendering using light, color, and shadows.        |
+| NetPractice   | [Network & System Administration]      | 100/100 | Hands-on exercises to understand IP addressing, subnetting, and network configurations.       |
+| CPP Modules 00 - 04  | [Object-Oriented Programming]    | 100/100 | A comprehensive introduction to C++ through modular projects focusing on OOP concepts.        |
 | Exam Rank 03  | -                                      | 100/100   | Demonstrated proficiency in problem-solving and algorithmic thinking under timed conditions.  |
 | Philosophers  | [Threads, Mutexes]                     | 100/100   | Implemented the classic "Dining Philosophers" problem to learn about concurrency in C.        |
 | Minishell     | [Unix, Imperative Programming]         | 100/100   | Developed a custom shell handling commands, pipes, and environment variables.                 |
