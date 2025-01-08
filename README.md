@@ -52,21 +52,23 @@ _Do or do not. There is no try._ 🚀
 <div align="center">
   
 ### 🌟 Completed Projects
-| Project       | Skills                                 | Score   |
-|---------------|----------------------------------------|---------|
-| Exam Rank 04  | -                                      | -       |
-| NetPractice   | [Network & System Administration]      | In Progress |
-| CPP Modules   | [Object-Oriented Programming]          | In Progress |
-| Exam Rank 03  | -                                      | 100/100 |
-| Philosophers  | [Threads, Mutexes]                     | 100/100 |
-| Minishell     | [Unix, Imperative Programming]         | 100/100 |
-| So_long       | [Graphics, Imperative Programming]     | 117/100 |
-| Pipex         | [Unix, Algorithms & AI]               | 125/125 |
-| Push_swap     | [Algorithms & AI]                     | 100/100 |
-| Born2beroot   | [System Administration]               | 125/100 |
-| get_next_line | [Algorithms & AI]                     | 112/100 |
-| [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Algorithms & AI] | 100/100 |
-| [Libft](https://github.com/ftomaz-c/Libft.git)     | [Algorithms & AI] | 125/100 |
+
+| Project       | Skills                                 | Score     | Description                                                                                  |
+|---------------|----------------------------------------|-----------|----------------------------------------------------------------------------------------------|
+| Exam Rank 04  | -                                      | -         | A performance assessment at 42 School covering advanced topics in C programming.             |
+| NetPractice   | [Network & System Administration]      | In Progress | Hands-on exercises to understand IP addressing, subnetting, and network configurations.       |
+| CPP Modules   | [Object-Oriented Programming]          | In Progress | A comprehensive introduction to C++ through modular projects focusing on OOP concepts.        |
+| Exam Rank 03  | -                                      | 100/100   | Demonstrated proficiency in problem-solving and algorithmic thinking under timed conditions.  |
+| Philosophers  | [Threads, Mutexes]                     | 100/100   | Implemented the classic "Dining Philosophers" problem to learn about concurrency in C.        |
+| Minishell     | [Unix, Imperative Programming]         | 100/100   | Developed a custom shell handling commands, pipes, and environment variables.                 |
+| So_long       | [Graphics, Imperative Programming]     | 117/100   | Created a simple 2D game using the MinilibX graphical library in C.                           |
+| Pipex         | [Unix, Algorithms & AI]               | 125/125   | Built a program to replicate shell-like piping between processes, showcasing UNIX expertise.   |
+| Push_swap     | [Algorithms & AI]                     | 100/100   | Developed a sorting algorithm visualization using stacks and push-swap operations.            |
+| Born2beroot   | [System Administration]               | 125/100   | Configured a virtual server with Debian to explore system administration and security basics. |
+| [get_next_line](https://github.com/ftomaz-c/Get_next_line) | [Algorithms & AI]                     | 112/100   | Implemented a function to read a line from a file descriptor in C, handling edge cases.       |
+| [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Algorithms & AI] | 100/100 | Recreated the `printf` function in C, supporting multiple formats and flags.                  |
+| [Libft](https://github.com/ftomaz-c/Libft.git)     | [Algorithms & AI] | 125/100 | Built a custom C library of essential functions for string manipulation and memory handling.   |
+
 
 </div>
 
