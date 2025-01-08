@@ -49,6 +49,8 @@ _Do or do not. There is no try._ 🚀
   </a>
 </div>
 
+<div align="center">
+  
 ### 🌟 Completed Projects
 | Project       | Skills                                 | Score   |
 |---------------|----------------------------------------|---------|
@@ -66,7 +68,7 @@ _Do or do not. There is no try._ 🚀
 | [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Algorithms & AI] | 100/100 |
 | [Libft](https://github.com/ftomaz-c/Libft.git)     | [Algorithms & AI] | 125/100 |
 
-
+</div>
 
 ## OSSU University
 I’m supplementing my 42 School journey with the OSSU curriculum.
