@@ -1,105 +1,91 @@
 <div align="center">
-  <h1>👋 Welcome to my GitHub!</h1>
-</div>
-
-<div style="display: inline-block" align="left">
-  <a href="https://www.codewars.com/">
-    <img src="https://www.codewars.com/users/ftomaz-c/badges/micro" alt="Codewars badge" />
-  </a>
+  <h1>👋 Welcome to My GitHub Profile!</h1>
+  <p>
+    <strong>Hi, I’m Fábio!</strong> A former dancer turned coding enthusiast, currently navigating the tech universe at 42 School. 🚀
+  </p>
 </div>
 
 <div align="center">
+  <p>
+    <strong>Explore my repositories:</strong>
+  </p>
   <table>
     <tr>
       <td><a href="https://github.com/ftomaz-c/Codewars">Codewars</a></td>
-      <td>LeetCode</td>
-      <td><a href="https://github.com/ftomaz-c/The_Odin_Project.git">The Odin Project</a></td>
+      <td><a href="https://leetcode.com/ftomaz-c">LeetCode</a></td>
+      <td><a href="https://github.com/ftomaz-c/The_Odin_Project">The Odin Project</a></td>
       <td><a href="https://github.com/ftomaz-c/freeCodeCamp">freeCodeCamp</a></td>
     </tr>
   </table>
-  <p>Current 42 Project - <a href="https://github.com/ftomaz-c/CPP-42">C++ Module00</a></p>
 </div>
 
 ## About Me
-Hey! I’m Fábio, once a dancer and marketeer, now diving headfirst into the coding universe at 42 School. I’m fascinated by **Computer Science**, **AI**, and **Machine Learning**. Still wrapping my head around it all, but loving the challenge.
+Hi! I’m Fábio. My journey started as a dancer and marketeer, and I’ve transitioned into the coding world through 42 School. I’m fascinated by **Computer Science**, **AI**, and **Machine Learning**, and I’m learning by doing.
 
-Right now, I'm working on a CRM software for an insurance broker, using **Python**, **Tailwind**, and **JavaScript**. Plus, I'm tackling some challenging school projects. It's all about learning by doing, and I'm really into it.
+### 🔭 Current Projects
+- **CRM Software:** Building a CRM for an insurance broker using **Python**, **Tailwind**, and **JavaScript**.
+- **42 School Projects:** Improving my skills in C and C++ with projects like `Minishell`, `Minirt` and `Webserv`.
 
-You’ll find my GitHub filled with my coding adventures, projects I’m proud of and others that are, well... works in progress. It’s all part of the journey. I’m here to grow, learn, and connect with others.
-
-Feel free to reach out.
+### 🚀 My Mission
+I’m here to:
+- Build meaningful projects 🛠️
+- Collaborate with like-minded developers 🤝
+- Constantly learn and challenge myself 📚
 
 _Do or do not. There is no try._ 🚀
 
-<p align="center">
+## Skills
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,linux,vscode,vim,git,github,docker,django,html,tailwind,css" alt="Skill Icons" />
   </a>
-</p>
-
+</div>
 
 
 ## 42 School
 <div align="center">
-  
-  [![ftomaz-c's 42 stats](https://badge.mediaplus.ma/darkblue/ftomaz-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  <a href="https://badge.mediaplus.ma/darkblue/ftomaz-c?1337Badge=off&UM6P=off">
+    <img src="https://badge.mediaplus.ma/darkblue/ftomaz-c?1337Badge=off&UM6P=off" alt="42 Badge" />
+  </a>
 </div>
 
-<div align="center">
+### 🌟 Completed Projects
+| Project       | Skills                                 | Score   |
+|---------------|----------------------------------------|---------|
+| Exam Rank 04  | -                                      | -       |
+| NetPractice   | [Network & System Administration]      | In Progress |
+| CPP Modules   | [Object-Oriented Programming]          | In Progress |
+| Exam Rank 03  | -                                      | 100/100 |
+| Philosophers  | [Threads, Mutexes]                     | 100/100 |
+| Minishell     | [Unix, Imperative Programming]         | 100/100 |
+| So_long       | [Graphics, Imperative Programming]     | 117/100 |
+| Pipex         | [Unix, Algorithms & AI]               | 125/125 |
+| Push_swap     | [Algorithms & AI]                     | 100/100 |
+| Born2beroot   | [System Administration]               | 125/100 |
+| get_next_line | [Algorithms & AI]                     | 112/100 |
+| [ft_printf](https://github.com/ftomaz-c/Printf.git) | [Algorithms & AI] | 100/100 |
+| [Libft](https://github.com/ftomaz-c/Libft.git)     | [Algorithms & AI] | 125/100 |
 
-|Project|Skills|Score|
-|---|---|---|
-|Exam Rank 04| - | - |
-|NetPractice| [Rigor] [Network & system administration] |in progress| 
-|CPP|[Rigor] [Object-oriented programming] [Imperative programming] | in progress | 
-|Exam Rank 03|-|100/100|
-|Philosophers|[Threads] [Mutexes]| 100/100 |
-|Minishell|[Unix] [Imperative programming]| 100/100 |
-|So_long|[Graphics] [Applicative] [Imperative programming]| 117/100 |
-|Pipex|[Unix] [Imperative programming] | 125/125|
-|Push_swap|[Unix] [Rigor] [Imperative programming] [Algorithms & AI]|100/100|
-|Exam Rank 02|-|100/100|
-|Born2beroot|[Network & system administration] [Rigor]|125/100|
-|get_next_line|[Unix] [Rigor] [Algorithms & AI]|112/100|
-|[ft_printf](https://github.com/ftomaz-c/Printf.git)|[Rigor] [Algorithms & AI]|100/100|
-|[Libft](https://github.com/ftomaz-c/Libft.git)|[Rigor] [Imperative programming] [Algorithms & AI]|125/100|
-</div>
 
 
 ## OSSU University
+I’m supplementing my 42 School journey with the OSSU curriculum.
 
-### 💻 CS
-- Introduction to Programming
+### 📖 Courses I’ve Completed
+- **Introduction to Programming:**
   - [Python for Everybody](https://www.py4e.com/lessons)
   - [CS50x](https://cs50.harvard.edu/x/2024/)
-- Introduction to Computer Science
-- Core programming
+- **Core Programming:**
   - [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
-
-### 📉 Data Science
-- Introduction to Data Science
-  - [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
-
-### 🔢 Math
-- [Review Math](https://www.khanacademy.org/profile/me/courses)
-
-## Codewars
-
-New [profile](https://www.codewars.com/users/ftomaz-c) on codewars!
-
-<div align="center">
-  
-🚀 [Welcome to my Codewars Katas Repository!](https://github.com/ftomaz-c/Codewars.git) 🚀 </div>
-
-<p align="center">
-  <a href="https://www.codewars.com/">
-    <img src="https://www.codewars.com/users/ftomaz-c/badges/large" />
-  </a>
-</p>
+  - [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html)
 
 ## Collaboration
-I'm open to collaboration and eager to work with like-minded individuals on exciting projects.
+I’m open to working on collaborative projects, especially those focused on **AI**, **Machine Learning**, or **Cybersecurity**.
 
-## Contact Me
-Feel free to reach out to me via email: [fabiocastim@gmail.com](mailto:fabiocastim@gmail.com)
+### 📧 Contact Me
+Feel free to reach out:
+- **Email:** [fabiocastim@gmail.com](mailto:fabiocastim@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/fabio-castim](https://www.linkedin.com/in/fabio-castim)
+
+
 
